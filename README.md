@@ -1,16 +1,29 @@
-## Hi there 👋
+name: Metrics
 
-<!--
-**ngsnethawarya/ngsnethawarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
 
-Here are some ideas to get you started:
+permissions:
+  contents: write  # allow committing the generated SVG
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}   # your PAT with repo + read:user
+          user: ngsnethawarya
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: America/Chicago
+          filename: github-metrics.svg          # write this file to the repo root
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_sections: most-used
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_followup: yes
