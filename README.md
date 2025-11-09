@@ -1,3 +1,4 @@
 ## Activity metrics
-![Metrics](https://github.com/ngsnethawarya/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/ngsnethawarya/metrics/main/github-metrics.svg)
+
 
