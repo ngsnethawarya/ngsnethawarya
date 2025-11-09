@@ -3,12 +3,12 @@
 
 ---
 
-### 🧭 About Me
+###  About Me
 - 🎓 M.S. Cybersecurity, Saint Mary’s University of Minnesota  
-- 🔍 Focus on network defense, digital forensics, and malware analysis  
-- 🧰 Building my cybersecurity home lab using open-source tools  
-- 📫 Email: **info@ngsnethawarya.com**  
-- 🌐 Website: [ngsnethawarya.com](https://ngsnethawarya.com)
+-  Focus on network defense, digital forensics, and malware analysis  
+-  Building my cybersecurity home lab using open-source tools  
+-  Email: **info@ngsnethawarya.com**  
+-  Website: [ngsnethawarya.com](https://ngsnethawarya.com)
 
 ---
 
@@ -30,7 +30,7 @@
 
 ---
 
-### 💻 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ngsnethawarya&show_icons=true&theme=chartreuse-dark" height="145">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngsnethawarya&layout=compact&theme=chartreuse-dark" height="145">
@@ -38,15 +38,7 @@
 
 ---
 
-<!-- optional smaller metrics -->
-### 📊 GitHub Metrics
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ngsnethawarya/ngsnethawarya/main/github-metrics.svg" width="75%">
-</p>
-
----
-
-### 🌐 Connect
+###  Connect
 <p align="center">
   <a href="https://linkedin.com/in/ngsnethawarya" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=linkedin"/></a>
   <a href="mailto:info@ngsnethawarya.com"><img height="30" src="https://skillicons.dev/icons?i=gmail"/></a>
