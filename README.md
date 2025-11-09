@@ -46,19 +46,6 @@
   <img src="https://img.shields.io/badge/Kali_Linux-Pentesting-black?style=flat-square&logo=linux"/>
 </p>
 
-
-<p align="center">
-  <!-- slightly larger uniform badges -->
-  <img height="25" src="https://img.shields.io/badge/Autopsy-Forensics-blue?style=flat-square"/>
-  <img height="25" src="https://img.shields.io/badge/Volatility-Memory_Analysis-green?style=flat-square"/>
-  <img height="25" src="https://img.shields.io/badge/Remnux-Malware_Analysis-gray?style=flat-square"/>
-  <img height="25" src="https://img.shields.io/badge/Metasploit-Pentesting-red?style=flat-square"/>
-  <img height="25" src="https://img.shields.io/badge/Nmap-Network_Scanning-teal?style=flat-square"/>
-  <img height="25" src="https://img.shields.io/badge/Splunk-SIEM-orange?style=flat-square"/>
-  <img height="25" src="https://img.shields.io/badge/OpenVAS-Vulnerability_Scanner-brightgreen?style=flat-square"/>
-  <img height="25" src="https://img.shields.io/badge/Kali_Linux-Pentesting-black?style=flat-square&logo=linux"/>
-</p>
-
 ---
 
 ###  GitHub Stats  
