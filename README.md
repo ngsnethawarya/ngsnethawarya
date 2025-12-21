@@ -56,9 +56,18 @@
 
 ---
 
-### 🌐 Connect  
+### Connect  
+
 <p align="center">
-  <a href="mailto:info@ngsnethawarya.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  [<a href="https://linkedin.com/in/ngsnethawarya"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>](https://www.linkedin.com/in/ngsnet-hawarya-68278a255/)
-  <a href="https://ngsnethawarya.com"><img src="https://skillicons.dev/icons?i=wordpress" height="40"/></a>
+  <a href="mailto:info@ngsnethawarya.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ngsnet-hawarya-68278a255/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ngsnethawarya.com">
+    <img src="https://skillicons.dev/icons?i=wordpress" height="40"/>
+  </a>
 </p>
