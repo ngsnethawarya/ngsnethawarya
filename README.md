@@ -56,10 +56,6 @@
 
 ---
 
-### Connect  
-
-
-
 ### Connect
 
 <p align="center">
