@@ -59,7 +59,15 @@
 ### Connect  
 
 
-<a href="mailto:info@ngsnethawarya.com">
-  <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" alt="Microsoft Outlook" width="48" height="48"/>
-</a>
+
+### Connect
+
+<p align="center">
+  <a href="mailto:info@ngsnethawarya.com"><img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="48" alt="Outlook"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ngsnet-hawarya-68278a255/"><img src="https://img.icons8.com/color/48/linkedin.png" width="48" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://ngsnethawarya.com/"><img src="https://img.icons8.com/color/48/wordpress.png" width="48" alt="Website"/></a>
+</p>
+
 
